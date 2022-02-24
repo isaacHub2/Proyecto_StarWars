@@ -1,0 +1,14 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');*/
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+/*
+@font-face {
+    font-family: 'StarWarsFont';
+    src: url('./font/StarJedi-DGRW.ttf') format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}*/
+
+h1{
+    font-family: 'Bungee Shade', cursive;
+}
